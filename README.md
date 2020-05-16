@@ -11,4 +11,4 @@ Analyzes data from bike share usage in 3 cities: Chicago, New York City and Wash
 bikeshare.py
 
 ### Credits
-n/a
+This project was made in conjuction with the bikeshare project submission.
