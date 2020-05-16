@@ -5,7 +5,8 @@
 Bikeshare Project
 
 ### Description
-Analyzes data from bike share usage in 3 cities: Chicago, New York City and Washington
+Analyzes data from bike share usage in 3 cities: Chicago, New York City and Washington.
+Allows user to analyze data by month, day or both - month and day.
 
 ### Files used
 1. bikeshare.py
